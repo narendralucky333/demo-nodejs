@@ -12,7 +12,7 @@ res.writeHead(200, {'Content-Type': 'text/html'});
 
 // Writing static text
 
-res.end('Hi E-1 Wish you a sparkling New Year! ...');
+res.end('Hi E1 Wish you a sparkling New Year! ...');
 
 // Server listening on port number 10000
 
